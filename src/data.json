@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Jilid Hardcover",
+    "images": "../assets/images/jilid.jpg",
+    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+  },
+  {
+    "id": "2",
+    "title": "Jilid Softcover",
+    "images": "../assets/images/jilid.jpg",
+    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+  },
+  {
+    "id": "3",
+    "title": "Jilid Lakban",
+    "images": "../assets/images/jilid.jpg",
+    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+  },
+  {
+    "id": "4",
+    "title": "Laminating",
+    "images": "../assets/images/jilid.jpg",
+    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+  },
+  {
+    "id": "5",
+    "title": "Cetak Foto",
+    "images": "../assets/images/jilid.jpg",
+    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+  },
+  {
+    "id": "6",
+    "title": "Sedia ATK",
+    "images": "../assets/images/jilid.jpg",
+    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+  },
+  {
+    "id": "7",
+    "title": "Burning Kaset",
+    "images": "../assets/images/jilid.jpg",
+    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+  },
+  {
+    "id": "8",
+    "title": "Print Warna",
+    "images": "../assets/images/jilid.jpg",
+    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+  },
+  {
+    "id": "9",
+    "title": "Print Copy",
+    "images": "../assets/images/jilid.jpg",
+    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+  }
+]
