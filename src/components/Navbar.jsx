@@ -58,7 +58,7 @@ const Navbar = () => {
         isScroll
           ? 'shadow-md xl:rounded-b-full transition-all duration-1000 dark:shadow-slate-800'
           : ''
-      } bg-white dark:bg-slate-900 fixed left-0 right-0 flex justify-between w-full items-center px-5 py-5 xl:py-0 md:px-20 z-50`}
+      } bg-white dark:bg-slate-900 fixed left-0 right-0 flex justify-between w-full items-center px-5 xl:py-0 md:px-20 z-50`}
     >
       {isDark ? (
         <div>
