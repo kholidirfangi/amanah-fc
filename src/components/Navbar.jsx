@@ -60,9 +60,15 @@ const Navbar = () => {
           : ''
       } bg-white dark:bg-slate-900 fixed left-0 right-0 flex justify-between w-full items-center px-5 py-5 xl:py-0 md:px-20 z-50`}
     >
-      <div>
-        <img src="../assets/logo/amanah-logo.png" alt="" width={100}/>
-      </div>
+      {isDark ? (
+        <div>
+          <img src="../assets/logo/amanah-logo-dark.png" alt="" width={100} />
+        </div>
+      ) : (
+        <div>
+          <img src="../assets/logo/amanah-logo.png" alt="" width={100} />
+        </div>
+      )}
       <div
         onClick={handleMenuClick}
         className="w-full flex justify-end xl:hidden"
