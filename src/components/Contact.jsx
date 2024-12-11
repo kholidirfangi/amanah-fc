@@ -9,9 +9,9 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    const phoneNumber = '6281384528791';
+    const phoneNumber = '6281327679035';
     const encodedMessage = encodeURIComponent(
-      `Nama: ${name}\nAlamat: ${address}\nMessage: ${message}`
+      `Nama: ${name}\nAlamat: ${address}\nPesan: ${message}`
     );
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
     // Redirect ke WhatsApp
