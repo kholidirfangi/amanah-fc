@@ -16,8 +16,8 @@ const Client = () => {
   const duplicatedLogos = [...dataLogo, ...dataLogo];
 
   return (
-    <div className="pb-20 bg-slate-100 overflow-hidden relative">
-      <h1 className="text-center poppins-bold text-2xl text-slate-800 mb-10">
+    <div id="client" className="py-16 overflow-hidden relative">
+      <h1 className="text-center poppins-bold text-2xl text-slate-800 dark:text-slate-50 mb-10 xl:mb-20">
         Pelanggan
       </h1>
 

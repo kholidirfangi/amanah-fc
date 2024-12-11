@@ -1,56 +1,68 @@
 [
   {
+    "id": "0",
+    "title": "Fotocopy",
+    "images": "../assets/images/fotocopy.jpg",
+    "description": "Fotocopy adalah proses penggandaan atau penyalinan dokumen, gambar, atau teks secara fisik menggunakan mesin fotokopi. Proses ini bekerja dengan memanfaatkan teknologi sinar dan toner untuk mereproduksi konten dari dokumen asli ke lembaran kertas lainnya dalam waktu singkat."
+  },
+  {
     "id": "1",
     "title": "Jilid Hardcover",
-    "images": "../assets/images/jilid.jpg",
-    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+    "images": "../assets/images/hardcover.jpg",
+    "description": "Jilid Hardcover adalah jenis penjilidan buku atau dokumen yang menggunakan bahan penutup yang keras dan kaku, biasanya terbuat dari karton tebal yang dilapisi dengan kain, kulit sintetis, atau kertas khusus. Teknik jilid ini dirancang untuk memberikan perlindungan maksimal pada isi buku serta meningkatkan daya tahan dan estetika."
   },
   {
     "id": "2",
     "title": "Jilid Softcover",
-    "images": "../assets/images/jilid.jpg",
-    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+    "images": "../assets/images/softcover.jpg",
+    "description": "Jilid Softcover adalah jenis penjilidan buku atau dokumen yang menggunakan bahan sampul yang lebih fleksibel dan tipis, biasanya terbuat dari kertas karton atau art paper yang dilaminasi untuk memberikan perlindungan tambahan. Jilid ini sering digunakan untuk buku yang lebih ringan dan ekonomis, seperti novel, majalah, komik, atau buku pelajaran."
   },
   {
     "id": "3",
     "title": "Jilid Lakban",
-    "images": "../assets/images/jilid.jpg",
-    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+    "images": "../assets/images/jilid-lakban.jpg",
+    "description": "Jilid lakban adalah metode penjilidan dokumen atau buku menggunakan lakban (tape) yang kuat untuk merekatkan atau mengikat halaman-halaman agar tersusun rapi menjadi satu kesatuan. Proses ini dilakukan dengan melapisi bagian tepi dokumen dengan lakban yang biasanya berwarna hitam atau cokelat."
   },
   {
     "id": "4",
     "title": "Laminating",
-    "images": "../assets/images/jilid.jpg",
-    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+    "images": "../assets/images/laminating.jpg",
+    "description": "Laminating adalah proses pelapisan suatu bahan, seperti kertas atau dokumen, dengan lapisan pelindung yang terbuat dari plastik transparan. Proses ini dilakukan menggunakan mesin laminating yang merekatkan plastik pada permukaan dokumen dengan bantuan panas atau tekanan."
   },
   {
     "id": "5",
     "title": "Cetak Foto",
-    "images": "../assets/images/jilid.jpg",
-    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+    "images": "../assets/images/cetak-foto.jpg",
+    "description": "Cetak foto adalah proses menghasilkan gambar fisik dari file digital atau negatif film pada media tertentu, seperti kertas foto, kanvas, atau bahan lainnya, menggunakan perangkat cetak khusus. Proses ini bertujuan untuk mengubah gambar digital atau analog menjadi bentuk yang dapat dilihat secara langsung tanpa memerlukan perangkat elektronik."
   },
   {
     "id": "6",
     "title": "Sedia ATK",
-    "images": "../assets/images/jilid.jpg",
-    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+    "images": "../assets/images/atk.jpg",
+    "description": "ATK (Alat Tulis Kantor) adalah berbagai macam peralatan dan perlengkapan yang digunakan untuk mendukung aktivitas administrasi, dokumentasi, dan pekerjaan kantor lainnya. ATK mencakup berbagai jenis alat yang berfungsi untuk menulis, mencatat, menggambar, mengarsipkan, serta kebutuhan pendukung lainnya yang berkaitan dengan pekerjaan sehari-hari di lingkungan kerja, pendidikan, atau kegiatan pribadi."
   },
   {
     "id": "7",
     "title": "Burning Kaset",
-    "images": "../assets/images/jilid.jpg",
-    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+    "images": "../assets/images/burning-cd.jpg",
+    "description": "Burning kaset adalah proses merekam atau menyimpan data ke dalam media optik, seperti CD (Compact Disc), DVD (Digital Versatile Disc), atau Blu-ray Disc, menggunakan perangkat komputer yang dilengkapi dengan drive pembakar (optical disc burner). Proses ini memungkinkan transfer file digital, seperti musik, video, dokumen, atau aplikasi, dari komputer ke media kaset optik untuk berbagai keperluan, seperti distribusi, cadangan data, atau penyimpanan jangka panjang."
   },
   {
     "id": "8",
     "title": "Print Warna",
-    "images": "../assets/images/jilid.jpg",
-    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+    "images": "../assets/images/print-warna.jpg",
+    "description": "Print warna merujuk pada proses mencetak gambar, teks, atau desain dengan menggunakan tinta atau toner yang menghasilkan variasi warna di atas media cetak, seperti kertas, kain, atau plastik. Teknik ini menggunakan kombinasi berbagai warna untuk menciptakan hasil cetakan yang penuh warna dan detail, berbeda dengan print hitam putih yang hanya menggunakan satu warna tinta atau toner."
   },
   {
     "id": "9",
     "title": "Print Copy",
-    "images": "../assets/images/jilid.jpg",
-    "description": "Jilid Hardcover adalah jilid menggunakan karton"
+    "images": "../assets/images/print-copy.jpg",
+    "description": "Print copy merujuk pada proses mencetak salinan dokumen atau gambar dari sumber asli (seperti file digital atau dokumen fisik) ke media cetak (seperti kertas). Proses ini digunakan untuk membuat salinan identik dari dokumen atau materi visual, baik untuk tujuan arsip, distribusi, atau penggunaan pribadi."
+  },
+  {
+    "id": "10",
+    "title": "Scan Dokumen",
+    "images": "../assets/images/scan.jpg",
+    "description": "Scan dokumen adalah proses digitalisasi dokumen fisik menggunakan perangkat scanner, yang mengonversi dokumen atau gambar fisik menjadi file digital (seperti PDF, JPEG, atau TIFF). Proses ini memungkinkan dokumen yang awalnya berbentuk fisik menjadi lebih mudah disimpan, dibagikan, dan dikelola secara elektronik."
   }
 ]
